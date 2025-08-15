@@ -131,3 +131,8 @@ Here’s what each package you listed is typically used for in a **Node.js / Exp
 
 If you want, I can make you a **visual diagram** showing how these packages interact in a typical backend flow — request → authentication → file upload → DB → payment → webhook.
 It’ll make it very clear how they work together in one system.
+
+
+
+
+Vercel ->  git hub project imported -> Go to Dashboard -> Domains link->   copy that link -> put it in clerk dashboard  weboohks link next you will get the  signing secret.-> copy that into .env
